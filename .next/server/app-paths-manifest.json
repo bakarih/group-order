@@ -1,7 +1,0 @@
-{
-  "/order/new/page": "app/order/new/page.js",
-  "/page": "app/page.js",
-  "/order/[id]/page": "app/order/[id]/page.js",
-  "/order/[id]/menu/page": "app/order/[id]/menu/page.js",
-  "/order/[id]/join/page": "app/order/[id]/join/page.js"
-}
